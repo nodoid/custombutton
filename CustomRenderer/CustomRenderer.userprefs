@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Droid/CustomRenderer.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomRenderer/CustomRenderer.cs">
+    <Files>
+      <File FileName="CustomRenderer/CustomRenderer.cs" Line="1" Column="1" />
+      <File FileName="CustomRenderer/Login.cs" Line="23" Column="23" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="CustomRenderer/NewButton.cs" Line="1" Column="1" />
+      <File FileName="Droid/Resources/drawable/RoundedButton.xml" Line="1" Column="1" />
+      <File FileName="Droid/NewButtonRenderer.cs" Line="1" Column="1" />
+      <File FileName="iOS/NewButtonRenderer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
